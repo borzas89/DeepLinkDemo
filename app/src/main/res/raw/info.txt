@@ -1,0 +1,4 @@
+https://developer.chrome.com/multidevice/android/intents
+https://stackoverflow.com/questions/29250152/what-is-the-intent-to-launch-any-website-link-in-google-chrome
+https://stackoverflow.com/questions/16738276/how-do-i-pass-parameters-to-android-intent-in-new-scheme-on-chrome
+https://developer.android.com/guide/components/intents-filters.html#extras
